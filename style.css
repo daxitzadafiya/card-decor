@@ -1,0 +1,13 @@
+.carousel-item 
+{
+    height: 100vh;
+    width: 100%;
+    background:no-repeat center center scroll;
+
+}
+
+img
+{
+    height: 100vh;
+    width: 100%;
+}
